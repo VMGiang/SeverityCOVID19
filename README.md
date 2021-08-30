@@ -1,7 +1,8 @@
 # COVID19
 
 ## Requirements
-R version 4.1.0 (2021-05-18)\n
+R version 4.1.0 (2021-05-18)
+
 Plink 1.09
 
 ## Simple run
