@@ -6,7 +6,7 @@
 
 ## Requirements
 - R version 4.1.0 (2021-05-18)
-- Plink 1.09
+- Plink 1.9
 
 
 ## Input formats
