@@ -11,6 +11,7 @@ Input of pipeline should be bfile format ( .bim, .fam, .bed)
 #### 1. QC base population (GWAS summary statistics)
 
 '''
+
 ./src/QC.based 
 
 '''
