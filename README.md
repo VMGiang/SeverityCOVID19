@@ -5,16 +5,10 @@ R version 4.1.0 (2021-05-18)
 
 Plink 1.09
 
-## Simple run
-Input of pipeline should be bfile format ( .bim, .fam, .bed)
+## Input formats
 
-#### 1. QC base population (GWAS summary statistics)
-
-```
-
-./src/QC.based 
-
-```
-
+- target populations bfile format ( .bim, .fam, .bed)
+-
+- base population (.gwas.txt)
 
 
