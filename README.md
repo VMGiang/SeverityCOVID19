@@ -1,4 +1,4 @@
-# COVID19
+# Investigation of immunogenic profiling to predictseverity of COVID-19
 
 ## Workflow
 
