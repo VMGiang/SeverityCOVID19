@@ -1,4 +1,4 @@
-# Investigation of immunogenic profiling to predict severity of COVID-19
+# Investigation of immunogenic profiling to predict severity of COVID-19 in Vietnam
 
 ## Workflow
 
